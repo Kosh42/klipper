@@ -118,6 +118,7 @@ Sensors = {
     "NTC 100K beta 3950": { 't1': 25., 'r1': 100000., 'beta': 3950. },
     "Honeywell 100K 135-104LAG-J01": { 't1': 25., 'r1': 100000., 'beta': 3974.},
     "NTC 100K MGB18-104F39050L32": { 't1': 25., 'r1': 100000., 'beta': 4100. },
+    "AVX NB12SC0104JBB": { 't1': 25., 'r1': 100000., 'beta': 4500. },
 }
 
 def load_config(config):
